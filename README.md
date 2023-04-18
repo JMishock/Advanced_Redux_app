@@ -1,3 +1,7 @@
+![image](https://user-images.githubusercontent.com/110921145/232880094-9c793b2a-4eec-4c7f-bf91-ce4c5ea799d9.png)
+
+
+
 Advanced Redux App
 
 This application is part of a Udemy.com course React-The Complete Guide(incl Hooks, React Router, Redux) 
